@@ -1,13 +1,17 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Cloud Based Applications in GCP
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on open source projects
+
+---
+ 
+[![AWS Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
+[![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/community/experts/directory/profile/profile-lynn-langit)
+
+<!-- [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://rd.microsoft.com/en-us/lynn-langit) -->
+
 <!--
-**Bryn-Lloyd/Bryn-Lloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
