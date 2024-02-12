@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cloud Based Applications in GCP
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Java 17
 - 👯 I’m looking to collaborate on open source projects
 
 **languages and tools:** 
